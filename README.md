@@ -1,1 +1,1 @@
-# prog_log_func
+# Programacion Logica y Funcional
